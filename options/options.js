@@ -7,5 +7,11 @@ export const globalOptions = {
 export const modulesOptions = {
   "@modules/app-menu": {
     copy: "Routes available!"
+  },
+  "@modules/login": {
+    "SignInNavText": "Sign In Change",
+    "SignUpNavText": "Signup Change",
+    "SignInButtonText": "Login Change",
+    "SignUpButtonText": "Signup Change"
   }
 };
